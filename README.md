@@ -5,15 +5,9 @@ A modern web application that helps restaurants streamline daily operations—fr
 ✨ Highlights
 
 Unified dashboard for at-a-glance KPIs: revenue, orders, average ticket size, best-sellers, and profit.
-
 Menu management with create/update/delete for items, categories, and price variants.
-
-Season-aware analytics: visualize sales, profits, and top items across seasons (e.g., Summer, Monsoon, Winter, Festive).
-
+Season-aware analytics: visualize sales, profits, and top items across seasons (e.g., Summer, Monsoon, Winter).
 Flexible pricing & availability: schedule price changes, mark items as out-of-stock, and manage daily specials.
-
-Granular permissions for Admin, Manager, and Staff roles.
-
 Responsive UI optimized for tablets used on the floor or at the counter.
 
 
@@ -21,12 +15,9 @@ Responsive UI optimized for tablets used on the floor or at the counter.
 🏗️ Architecture
 
 Frontend: React + Tailwind CSS for a fast, component-driven UI.
-
-Backend: Python (e.g., FastAPI/Flask) exposing RESTful endpoints.
-
+Backend: Python(Flask) exposing RESTful endpoints.
 Database: SQL (PostgreSQL/MySQL/SQLite) depending on deployment.
-
-Analytics: Python data stack (e.g., Pandas + Matplotlib/Plotly/Altair) for charts.
+Analytics: Python data stack (e.g., Pandas + Matplotlib) for charts.
 
 
 🖥️ UI Snapshot (Sections)
